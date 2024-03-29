@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Implementation-Title: springbootcrudapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: in.bushansirgur.springbootcrud.springbootcrudapi.Springbootc
+ rudapiApplication
+Created-By: Maven Integration for Eclipse
+
